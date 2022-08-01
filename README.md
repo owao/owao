@@ -6,7 +6,7 @@
 
 ### 2021.01 ~ 2021.12
 - **May**
- - Participating on JunctionXSeoul Hackathon(Online Global Hackathon) - Frontend developer & designer
+    - Participating on JunctionXSeoul Hackathon(Online Global Hackathon) - Frontend developer & designer
 
 ### 2022.01 ~ 2022.12
 - University of Seoul (Computer Science)
