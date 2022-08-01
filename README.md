@@ -38,8 +38,8 @@
 ---
 
 ### Project I am woking on or have done
-- [어린이집 이상행동 감지 모니터링 시스템](https://github.com/DSC-University-of-Seoul/2021-spring-project)
-  (Monitoring System detecting anomaly behavior in childcare center using ML)
+- 공개SW 개발자대회 - [어린이집 이상행동 감지 모니터링 시스템](https://github.com/DSC-University-of-Seoul/2021-spring-project)
+  (Monitoring System detecting anomaly behavior in childcare center using ML) 동상(오에스비씨상) 수상
 - 배리어프리 앱 개발 콘테스트 - STT를 이용한 인터넷 영상통화 서비스 (Internet Video Call Service Using STT) 아이디어 심사로 본선 진출
 - 인공지능인문학 대학생 학술논문 경연대회 - "사회적 지능을 인공지능에게 교육할 수 있는가" (Participating on paper conference of Artificial Intelligence and Humanities – “Can Artificial Intelligence be Trained to have Social Intelligence”) 장려상 수상
 
