@@ -5,8 +5,8 @@
 - Studied at Hana Academy Seoul
 
 ### 2021.01 ~ 2021.12
-- SSAFY 6th generation
-- Working in [Linewalks](https://linewalks.com/)
+##### May
+- Participating on JunctionXSeoul Hackathon(Online Global Hackathon) - Frontend developer & designer
 
 ### 2022.01 ~ 2022.12
 - University of Seoul (Computer Science)
