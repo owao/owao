@@ -5,10 +5,15 @@
 - Languages: Korean (native), English (about B2~C1), French (a few), Japanese (a few)
 - Contact: ballallallalla@gmail.com, [Github](https://github.com/owao)
 
+---
+
+## Timeline
+
+<details>
+<summary>View</summary>
+
 ### 2018.03 ~ 2021.02
 - Studied at Hana Academy Seoul(HAS)
-
----
 
 ### 2021.03 ~ 2022.02
 - **May**
@@ -17,8 +22,8 @@
     - GDSC Team project “Monitoring System detecting anomaly behavior in childcare center using ML” develop - Hub developer (cooperation with backend part)
 - **April ~ Feburary**
     - Google Developer Students Club member(GDSC) - Work on Web-Bigginer Team, 2021 Spring Project team, and Mobile Team
-
----
+- **May ~ September**
+    - Barrier Free Application Development Contest - Public transportation service for the disabilities (ideas)
 
 ### 2022.03 ~ 2023.02
 - **March**
@@ -28,8 +33,11 @@
 - **September ~ Present**
     - Undergraduate Intern in data mining lab, University of Seoul.
 
+</details>
+
 ---
 
 ### Project I am woking on or have done
 - [어린이집 이상행동 감지 모니터링 시스템](https://github.com/DSC-University-of-Seoul/2021-spring-project)
   (Monitoring System detecting anomaly behavior in childcare center using ML)
+- 배리어프리 앱 개발 콘테스트 - 장애인 맞춤 대중교통 이용 서비스 (아이디어 심사로 본선 진출)
