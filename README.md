@@ -1,6 +1,6 @@
 # JeongYoon Yeom
 - Computer science and Math (double major), 2nd Year, Univ. of Seoul
-- Interested in **AI algorithm and model development**, Server engeneer
+- Interested in **AI algorithm and model development**, Server engeneering
 - Skills: HTML, JAVA, Python, C
 - Languages: Korean (native), English (about B2~C1), French (a few), Japanese (a few)
 - Contact: ballallallalla@gmail.com, [Github](https://github.com/owao)
