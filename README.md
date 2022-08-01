@@ -1,6 +1,6 @@
 # owao
 
-* JeongYoon Yeom
+## JeongYoon Yeom
 - Computer science and Math (double major), 2nd Year, Univ. of Seoul
 
 ### 2018.03 ~ 2021.02
