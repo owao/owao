@@ -42,7 +42,7 @@
   (Monitoring System detecting anomaly behavior in childcare center using ML)
 - 배리어프리 앱 개발 콘테스트 - STT를 이용한 인터넷 영상통화 서비스 (아이디어 심사로 본선 진출) (Internet Video Call Service Using STT (ideas))
 
-### I work(ed/ing) at ...
+### I work(ed/ing) on ...
 - Google Developer Student Club(GDSC) (2021.04 ~ 2021.12)
 - 서울시립대학교 전자전기컴퓨터공학부 김한준 교수님 데이터마이닝 연구실 소속 (2022.09 ~) (Undergraduate Intern in data mining lab, University of Seoul.)
 - 중견기업 AI 개발자 인턴 (2023년 1~2월 예정)
