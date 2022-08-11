@@ -44,6 +44,6 @@
 - 인공지능인문학 대학생 학술논문 경연대회 - "사회적 지능을 인공지능에게 교육할 수 있는가" (Participating on paper conference of Artificial Intelligence and Humanities – “Can Artificial Intelligence be Trained to have Social Intelligence”) 장려상 수상
 
 ### I work(ed/ing) on ...
-- Google Developer Student Club(GDSC) (2021.04 ~ 2021.12)
+- Google Developer Student Club in Univ. of Seoul (GDSC UOS) (2021.04 ~ 2021.12)
 - 서울시립대학교 전자전기컴퓨터공학부 김한준 교수님 데이터마이닝 연구실 소속 (2022.09 ~) (Undergraduate Intern in data mining lab, University of Seoul.)
 - 중견기업 AI 개발자 인턴 (2023년 1~2월 예정)
