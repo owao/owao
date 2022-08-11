@@ -1,4 +1,5 @@
-# 염정윤 [영어 README](https://github.com/owao/owao#readme)
+# 염정윤
+### **[영어 README](https://github.com/owao/owao#readme)**
 - 컴퓨터과학&수학 복수전공, 서울시립대학교 2학년
 - 관심 분야: **AI 알고리즘 및 모델 개발**, 서버 개발
 - 가능한 프로그래밍 언어: HTML, JAVA, Python, C
