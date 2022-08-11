@@ -30,7 +30,7 @@
 - **March**
     - Participating on paper conference of Artificial Intelligence and Humanities – “Can Artificial Intelligence be Trained to have Social Intelligence”
 - **August**
-    - Campus Town Employment Academy Study in Univ. of Seoul (AI development)
+    - Campus Town Employment Academy Study in Univ. of Seoul (AI development - intermediate grade class)
 - **September ~ Present**
     - Undergraduate Intern in data mining lab, University of Seoul.
 
