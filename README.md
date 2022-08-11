@@ -39,10 +39,10 @@
 ---
 
 ### Project I am woking on or have done
-- Open Software Competition of Developer - "[Monitoring System detecting anomaly behavior in childcare center using ML](https://github.com/DSC-University-of-Seoul/2021-spring-project)" 동상(오에스비씨상) 수상
-- Barrier Free Application Development Contest - "Internet Video Call Service Using STT)" 아이디어 심사로 본선 진출
-- Participating on paper conference of Artificial Intelligence and Humanities – “Can Artificial Intelligence be Trained to have Social Intelligence” 장려상 수상
-- Kaggle Data "[Telco-Customer-Churn Analysis](https://colab.research.google.com/drive/1-yaSEywrlyxBFQP6wKASBk7_vNabwFpj?hl=ko)"
+- Open Software Competition of Developer - "[Monitoring System detecting anomaly behavior in childcare center using ML](https://github.com/DSC-University-of-Seoul/2021-spring-project)" *Be awarded a bronze prize*
+- Barrier Free Application Development Contest - "Internet Video Call Service Using STT)" *Advance to the finals by reviewing ideas*
+- Participating on paper conference of Artificial Intelligence and Humanities – “Can Artificial Intelligence be Trained to have Social Intelligence” *Be awarded a bronze prize*
+- Kaggle Data "[Telco-Customer-Churn Analysis](https://colab.research.google.com/drive/1-yaSEywrlyxBFQP6wKASBk7_vNabwFpj?hl=ko)" (2022.06)
 
 ### I work(ed/ing) on ...
 - Google Developer Student Club in Univ. of Seoul (GDSC UOS) (2021.04 - 2021.12)
