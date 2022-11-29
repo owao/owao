@@ -31,7 +31,7 @@
     - 인공지능인문학 대학생 학술논문 경연대회 – “사회적 지능을 인공지능에게 교육할 수 있는가” 논문 작성
 - **8월**
     - 시립대 캠퍼스타운 취업사관학교 인공지능 개발 중급 과정 학습
-- **9월 ~ 현재**
+- **9월 ~ 11월**
     - 서울시립대학교 전자전기컴퓨터공학부 김한준 교수님 데이터마이닝 연구실 소속
 
 </details>
@@ -42,15 +42,8 @@
 - 공개SW 개발자대회 - "[어린이집 이상행동 감지 모니터링 시스템](https://github.com/DSC-University-of-Seoul/2021-spring-project)" 동상(오에스비씨상) 수상
 - 배리어프리 앱 개발 콘테스트 - "STT를 이용한 인터넷 영상통화 서비스" 아이디어 심사로 본선 진출
 - 인공지능인문학 대학생 학술논문 경연대회 - "사회적 지능을 인공지능에게 교육할 수 있는가" 장려상 수상
-    
-<details>
-<summary>개인 프로젝트</summary>
-    
-  - Kaggle 데이터 "[Telco-Customer-Churn 분석](https://colab.research.google.com/drive/1-yaSEywrlyxBFQP6wKASBk7_vNabwFpj?hl=ko)" (2022.06)
-    
-</details>
+- Kaggle 데이터 "[Telco-Customer-Churn 분석](https://colab.research.google.com/drive/1-yaSEywrlyxBFQP6wKASBk7_vNabwFpj?hl=ko)" (2022.06)
 
 ### 소속되었던(되어 있는) 단체
 - Google Developer Student Club in Univ. of Seoul (GDSC UOS) (2021.04 ~ 2021.12)
-- 서울시립대학교 전자전기컴퓨터공학부 김한준 교수님 데이터마이닝 연구실 소속 (2022.09 ~)
-- 중견기업 AI 개발자 인턴 (2023년 1~2월 예정)
+- 서울시립대학교 전자전기컴퓨터공학부 김한준 교수님 데이터마이닝 연구실 소속 (2022.09 ~ 2022.11)
