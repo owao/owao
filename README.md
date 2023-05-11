@@ -45,5 +45,5 @@
 - Kaggle Data "[Telco-Customer-Churn Analysis](https://colab.research.google.com/drive/1-yaSEywrlyxBFQP6wKASBk7_vNabwFpj?hl=ko)" (2022.06)
 
 ### I work(ed/ing) on ...
-- Google Developer Student Club in Univ. of Seoul (GDSC UOS) (2021.04 - 2021.12)
-- Undergraduate Intern in data mining lab, University of Seoul. (2022.09 - 2022.11
+- Google Developer Student Club in Univ. of Seoul (GDSC UOS) (2021.04 - 2022.02)
+- Undergraduate Intern in data mining lab, University of Seoul. (2022.09 - 2022.11)
