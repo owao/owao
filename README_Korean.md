@@ -1,6 +1,6 @@
 # 염정윤
 ### **[영어 README](https://github.com/owao/owao#readme)**
-- 컴퓨터과학&수학 복수전공, 서울시립대학교 2학년
+- 컴퓨터과학&수학 복수전공, 서울시립대학교 3학년
 - 관심 분야: **AI 알고리즘 및 모델 개발**, 서버 개발
 - 가능한 프로그래밍 언어: HTML, JAVA, Python, C
 - 언어: 한국어 (native), 영어 (about B2~C1), 프랑스어 (a few), 일본어 (a few)
@@ -45,5 +45,5 @@
 - Kaggle 데이터 "[Telco-Customer-Churn 분석](https://colab.research.google.com/drive/1-yaSEywrlyxBFQP6wKASBk7_vNabwFpj?hl=ko)" (2022.06)
 
 ### 소속되었던(되어 있는) 단체
-- Google Developer Student Club in Univ. of Seoul (GDSC UOS) (2021.04 ~ 2021.12)
+- Google Developer Student Club in Univ. of Seoul (GDSC UOS) (2021.04 ~ 2022.02)
 - 서울시립대학교 전자전기컴퓨터공학부 김한준 교수님 데이터마이닝 연구실 소속 (2022.09 ~ 2022.11)
