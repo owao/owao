@@ -52,8 +52,8 @@
 - 배리어프리 앱 개발 콘테스트 - "STT를 이용한 인터넷 영상통화 서비스" 아이디어 심사로 본선 진출
 - 인공지능인문학 대학생 학술논문 경연대회 - "사회적 지능을 인공지능에게 교육할 수 있는가" 장려상 수상
 - Kaggle 데이터 "[Telco-Customer-Churn 분석](https://colab.research.google.com/drive/1-yaSEywrlyxBFQP6wKASBk7_vNabwFpj?hl=ko)" (2022.06)
-- SiGo 프로젝트 - 일정과 장소를 입력하면 준비시간과 이동시간까지 고려해 알림을 주는 Scheduler & Reminder Application 백엔드 개발 (2024.07 ~ 2025.01)
-- 여름계절학기 글로벌자기주도연구 - "지식 그래프와 NLP를 이용한 인공신경망 검색 알고리즘 연구" 1달 프로젝트 : RAG 관련 지식 없이 유사 시스템 설계 및 구현 (2025.06 ~ 2025.07)
+- [SiGo 프로젝트](https://github.com/SiGO-reminder) - 일정과 장소를 입력하면 준비시간과 이동시간까지 고려해 알림을 주는 Scheduler & Reminder Application 백엔드 개발 (2024.07 ~ 2025.01)
+- 여름계절학기 글로벌자기주도연구 - "[지식 그래프와 NLP를 이용한 인공신경망 검색 알고리즘 연구](https://github.com/owao/RecommandationLibrarian)" 1달 프로젝트 : RAG 관련 지식 없이 유사 시스템 설계 및 구현 (2025.06 ~ 2025.07)
 
 ### 소속되었던(되어 있는) 단체
 - Google Developer Student Club in Univ. of Seoul (GDSC UOS) (2021.04 ~ 2022.02)
