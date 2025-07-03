@@ -1,6 +1,6 @@
 # JeongYoon Yeom
 ### **[Korean README](https://github.com/owao/owao/blob/main/README_Korean.md)**
-- Computer science and Math (double major), 3rd Year, Univ. of Seoul
+- Computer science and Math (double major), 4th Year, Univ. of Seoul
 - Interested in **AI algorithm and model development**, Server engeneering
 - Skills: HTML, JAVA, Python, C
 - Languages: Korean (native), English (about B2 - C1), French (a few), Japanese (a few)
