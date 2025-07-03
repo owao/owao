@@ -5,8 +5,7 @@
 - Skills: HTML, JAVA, Python, C
 - Languages: Korean (native), English (about B2 - C1), French (a few), Japanese (a few)
 - Contact: ballallallalla@gmail.com, [Github](https://github.com/owao)
-
-- Git blog: [owao.github.io](https://owao.github.io)
+- **Git blog**: [owao.github.io](https://owao.github.io)
 
 ---
 
@@ -36,6 +35,14 @@
 - **September - November**
     - Undergraduate Intern in data mining lab, University of Seoul.
 
+### 2024.03 ~ 2025.02
+- **July - January**
+    - SiGo Project - Backend developer
+
+### 2025.02 ~
+- **June - July**
+    - Self-Directed Research Course, Summer Semester, University of Seoul - "Research on artificial neural network search algorithms using knowledge graphs and NLP" Project (Design RAG and Application Implementation)
+
 </details>
 
 ---
@@ -45,6 +52,8 @@
 - Barrier Free Application Development Contest - "Internet Video Call Service Using STT)" ***Advance to the finals by reviewing ideas***
 - Participating on paper conference of Artificial Intelligence and Humanities – “Can Artificial Intelligence be Trained to have Social Intelligence” ***Be awarded a bronze prize***
 - Kaggle Data "[Telco-Customer-Churn Analysis](https://colab.research.google.com/drive/1-yaSEywrlyxBFQP6wKASBk7_vNabwFpj?hl=ko)" (2022.06)
+- SiGo project - A scheduler and reminder mobile application that considers preparation and travel time when you enter schedule and location; participated in backend development (2024.07 - 2025.01)
+- Self-Directed Research Course, Summer Semester - "Research on artificial neural network search algorithms using knowledge graphs and NLP" Project in one month; Design and implementation RAG without background knowledge (2025.06 - 2025.07)
 
 ### I work(ed/ing) on ...
 - Google Developer Student Club in Univ. of Seoul (GDSC UOS) (2021.04 - 2022.02)
