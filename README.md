@@ -6,6 +6,8 @@
 - Languages: Korean (native), English (about B2 - C1), French (a few), Japanese (a few)
 - Contact: ballallallalla@gmail.com, [Github](https://github.com/owao)
 
+- Git blog: [owao.github.io](https://owao.github.io)
+
 ---
 
 ## Timeline
