@@ -5,6 +5,7 @@
 - 가능한 프로그래밍 언어: HTML, JAVA, Python, C
 - 언어: 한국어 (native), 영어 (about B2~C1), 프랑스어 (a few), 일본어 (a few)
 - 문의 및 연락: ballallallalla@gmail.com, [Github](https://github.com/owao)
+- **깃 블로그**: [owao.github.io](https://owao.github.io)
 
 ---
 
